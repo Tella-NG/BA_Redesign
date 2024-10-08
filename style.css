@@ -51,7 +51,7 @@ body{
     top: 205px;
     left: 197px;
     color: #fff;
-    font-weight: 100px;
+    font-weight: 300;
     font-size: 17px;
 }
 
@@ -294,4 +294,45 @@ h3{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+
+/* footerr3 */
+.footcount{
+    display: flex;
+    gap: 190px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #020e1b;
+}
+
+.footcount h1{
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 10px 0;
+    color: #fff;
+}
+
+.footcount p{
+    color: #fff;
+    font-weight: 300;
+}
+
+.footcount .navs{
+    display: block;
+    unicode-bidi: isolate;
+    list-style: none;
+    gap: 10px;
+    color: #fff;
+    list-style:circle;
+}
+
+.footcount .socials{
+    /* color: #fff; */
+    margin-left: 100px;
+}
+
+.socials i{
+    padding: 1rem;
+    color: #fff;
 }
