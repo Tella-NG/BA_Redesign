@@ -336,3 +336,175 @@ h3{
     padding: 1rem;
     color: #fff;
 }
+
+
+
+
+
+/* Fearture page  */
+.content1{
+    display: flex;
+    height: 300px;
+    gap: 200px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.content1 .feat{
+    margin-left: 190px;
+    
+}
+
+.feat h2{
+    font-size: 50px;
+    font-weight: 50;
+}
+
+.feat p{
+    font-size: 20px;
+    font-weight: 10;
+}
+
+.content1 img{
+    height: 200px;
+    margin-left: 200px;
+}
+
+.platform{
+    display: flex;
+    background-color:#ddd;
+    width: 1700px;
+    height: 300px;
+    padding-top: 3rem;
+    font-weight: 10;
+}
+
+.plat{
+    /* font-size: 20px; */
+    font-weight: 10;
+    /* color: #fff; */
+    margin-left: 180px;
+    /* padding-bottom: 2rem; */
+   
+
+
+}
+
+.plat h2{
+    /* font-size: 50px; */
+    font-weight: 50;
+    padding-top: 1.5rem;
+}
+
+.platimg img{
+    height: 250px;
+    margin-left: 400px;
+
+}
+
+.cards{
+    background-color: #fff;
+    color: #333;
+    padding-top: 3rem;
+    /* padding-bottom: 0rem; */
+    /* margin-bottom: 80px; */
+}
+
+/* collumn1 */
+.card1{
+    display: flex;
+    padding: 20px;
+    color: #333;
+    width: 70rem;
+    position: relative;
+    left: 11rem;
+    /* margin-top: ; */
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card1 .fas{
+    position: relative;
+    top: 10px;
+    right: 8px;
+}
+
+/* collum2 */
+.card22{
+    display: flex;
+    color: #333;
+    padding: 20px;
+    width: 70rem;
+    position: relative;
+    left: 10rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    margin: 15px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card2a {
+    display: flex;
+    padding: 20px;
+    border-radius:1rem ;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card2a .fas {
+    position: relative;
+    top: 10px;
+    right: 8px;
+}
+
+.card2b{
+    display: flex;
+    position: relative;
+    left: 1.5rem;
+    padding: 20px;
+    width: 25rem;
+    border-radius: 1rem;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card2b .fas{
+    position: relative;
+    top: 20px;
+    right: 8px;
+}
+
+/* colum2 */
+.card33{
+    display: flex;
+    width: 70rem;
+    padding: 20px;
+    /* padding-bottom: 2rem; */
+    margin-bottom: 40px;
+    position: relative;
+    left: 11rem;
+    color: #000000;
+    border-radius: 1rem;
+    background-color: #fff;
+    gap: 25px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card3 .fas{
+    position: relative;
+    top: 26px;
+    right: 8px;
+}
+
+.card3{
+    display: flex;
+    width: 20rem;
+    padding: 20px;
+    position: relative;
+    /* left: 11rem; */
+    color: #000000;
+    border-radius: 1rem;
+    background-color: #fff;
+    /* gap: 25px; */
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
